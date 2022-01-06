@@ -12,3 +12,8 @@ User Datagram Protocol is also a member of internet protocol suite. UDP uses a s
 
 ## OpenCV
 For image reading and sending into data packets OpenCV library is used in this code. The image is rad with cv.imread and then numpy library is used to convert the image packets into arrays and send the data into bytes. cv.imshow is used in the client side to show the image recieved. 
+
+![server](https://user-images.githubusercontent.com/92062404/148404998-8e31b747-dd3e-49bc-ba39-25d2369f9e00.PNG)
+
+
+![client](https://user-images.githubusercontent.com/92062404/148405027-ce99e683-001d-4677-921d-0d94bf8bbf0d.PNG)
