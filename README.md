@@ -14,13 +14,15 @@ User Datagram Protocol is also a member of internet protocol suite. UDP uses a s
 For image reading and sending into data packets OpenCV library is used in this code. The image is rad with cv.imread and then numpy library is used to convert the image packets into arrays and send the data into bytes. cv.imshow is used in the client side to show the image recieved. 
 
 
-### connection from server sent 
+### Connection from server sent 
 ![server](https://user-images.githubusercontent.com/92062404/148404998-8e31b747-dd3e-49bc-ba39-25d2369f9e00.PNG)
 
-### sniffing thourgh Wireshark
+### Sniffing through Wireshark
 Wireshark is used to see the data packets sent from the server to the client. it tells how many bytes and the form of packets sent which makes it easier to figure out if the right data is sent in the right amount. 
+
+
 ![wireshark](https://user-images.githubusercontent.com/92062404/148408374-533dae62-f0a7-4008-857f-1e19e91e94e6.PNG)
 
 
-### data from server to client recieved 
+### Data from server to client recieved and Image is Displayed 
 ![client](https://user-images.githubusercontent.com/92062404/148405027-ce99e683-001d-4677-921d-0d94bf8bbf0d.PNG)
