@@ -1,2 +1,2 @@
 # Sockets-
-Scokets with Python 3
+Sokets with Python 3
