@@ -1,4 +1,4 @@
-# Sockets-
+# Sockets
 Sockets with Python 3
 
 
